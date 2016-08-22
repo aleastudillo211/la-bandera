@@ -1,0 +1,16 @@
+.yellow {
+	background-color: yellow;
+	
+
+}
+.box {
+	display: inline;
+	padding: 10px;
+}
+
+.red {
+	background-color:red;
+}
+body {
+	margin:0;
+}
